@@ -1,0 +1,17 @@
+{
+  "name": "mact6340manager",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000M\u0000A\u0000C\u0000T\u00006\u00003\u00004\u00000\u0000M\u0000a\u0000n\u0000a\u0000g\u0000e\u0000r\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jennise Streaty",
+  "license": "MIT",
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/contracts": "^5.0.2",
+    "dotenv": "^16.4.5",
+    "hardhat": "^2.22.5"
+  }
+}
